@@ -10,5 +10,5 @@ Issues? Try:
 - Run as admin
 - Restart your pc and try again
 
-If you have issues feel free to contact me on DC
+If you have issues feel free to contact me on DC:
 cw2hackz
